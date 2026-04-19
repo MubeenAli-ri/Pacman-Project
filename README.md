@@ -9,10 +9,10 @@ This is a simple terminal-based Pacman game developed in Java using Object-Orien
 The goal of the game is to collect all food items on the board while avoiding the ghost. The game ends when either all food is collected or Pacman collides with the ghost.
 
 Controls:
-- > Move right  
-- < Move left  
-- ^ Move up  
-- v Move down  
+- '>' Move right  
+- '<' Move left  
+- '^' Move up  
+- 'v' Move down  
 
 ---
 
