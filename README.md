@@ -36,7 +36,3 @@ Compile: javac Pacman.java
 Run: java Pacman
 
 ---
-
-5. Conclusion
-
-This project demonstrates basic object-oriented programming in Java through a simple console-based game where multiple classes interact to create a working system.
