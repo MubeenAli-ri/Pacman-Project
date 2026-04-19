@@ -32,6 +32,7 @@ Each class interacts with others to manage movement, game state, and rendering o
 4. How to Run
 
 Compile: javac Pacman.java
+
 Run: java Pacman
 
 ---
